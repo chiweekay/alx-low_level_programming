@@ -1,12 +1,12 @@
 #include <stdio.h>
 /**
-* main rntey point
+* main - entry point
 * Return: always return 0
 */
 int main(void)
 {
 int a = 0;
-for(; a < 10; a++)
+for (; a < 10; a++)
 printf("%d", a);
 putchar('\n');
 return (0);

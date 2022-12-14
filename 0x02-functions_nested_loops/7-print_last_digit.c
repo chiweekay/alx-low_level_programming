@@ -4,7 +4,7 @@
 * print_last_digit - main function
 *
 * @s: integer to get last digit of
-* Return: last digit of s 
+* Return: last digit of s
 *
 */
 int print_last_digit(int s)

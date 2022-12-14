@@ -59,4 +59,4 @@ int _isalpha(int c);
 
  */
 
-int print_sign(int n);
+int print_sign(int s);

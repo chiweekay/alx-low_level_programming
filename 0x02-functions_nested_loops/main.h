@@ -60,3 +60,14 @@ int _isalpha(int c);
  */
 
 int print_sign(int s);
+/**
+
+ * _abs - gives absolute value
+
+ * @int: integer
+
+ * Return: integer or abs value of int
+
+ */
+
+int _abs(int);

@@ -3,7 +3,7 @@
 * main - entry point
 * Return: alway returns 0
 */
-int main(void)  
+int main(void)
 {
 int i;
 int j;
@@ -23,7 +23,7 @@ if (i != 7 || j != 8 || k != 9)
 {
 putchar(',');
 putchar(' ');
-}		  
+}	  
 }
 }
 }

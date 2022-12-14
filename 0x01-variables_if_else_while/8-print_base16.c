@@ -3,7 +3,7 @@
 * main - entry point
 * Return: always return 0
 */
-int main(viod)
+int main()
 {
 unsigned char a = '0';
 int i;

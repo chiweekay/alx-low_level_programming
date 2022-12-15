@@ -2,7 +2,6 @@
 /**
 * print_times_table - times table function
 * @n: integer to return
-*
 */
 void print_times_table(int n)
 {
@@ -34,7 +33,7 @@ _putchar(' ');
 _putchar('0' + (prod / 100));
 _putchar('0' + ((prod / 10) % 10));
 _putchar('0' + (prod % 10));
- }
+}
 else
 {
 _putchar(',');
